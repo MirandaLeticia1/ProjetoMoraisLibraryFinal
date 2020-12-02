@@ -1,0 +1,38 @@
+[
+ {
+  "titulo": "Data Science do Zero",
+  "autor": "Joel Grus",
+  "ano": "2015",
+  "quantidade": "5",
+  "categoria": "Fisico",
+  "tematica": "Programação",
+  "reservavel": "s"
+ },
+ {
+  "titulo": "O Algoritmo Mestre",
+  "autor": "Pedro Domingos",
+  "ano": "2017",
+  "quantidade": "10",
+  "categoria": "Fisico",
+  "tematica": "Programação",
+  "reservavel": "s"
+ },
+ {
+  "titulo": "Arquitetura Limpa",
+  "autor": "Robert Cecil Martin",
+  "ano": "2019",
+  "quantidade": "2",
+  "categoria": "Fisico",
+  "tematica": "Programação",
+  "reservavel": "n"
+ },
+ {
+  "titulo": "Rápido e devagar",
+  "autor": "Daniel Kahneman",
+  "ano": "2011",
+  "quantidade": "3",
+  "categoria": "Digital",
+  "tematica": "Psicologia",
+  "reservavel": "s"
+ }
+]
