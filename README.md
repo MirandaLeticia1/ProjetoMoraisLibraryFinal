@@ -1,4 +1,3 @@
-# ProjetoMoraisLibraryFinal
-Projeto da disciplina de Estrutura de Dados, grupo formado por:
-Letícia Miranda e
-Pedro Rhamon
+# Projeto de um sistema de biblioteca utilizando estruturas de dados em Python
+
+
